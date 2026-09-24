@@ -1,0 +1,3 @@
+pandas and mlxtend
+#install using
+pip install -r requirements.txt
